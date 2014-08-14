@@ -1,0 +1,7 @@
+G:\Projects\WebcastLIDNUG\Projects\output\debug\ExternalDb.dll.config
+G:\Projects\WebcastLIDNUG\Projects\output\debug\ExternalDb.dll
+G:\Projects\WebcastLIDNUG\Projects\output\debug\ExternalDb.pdb
+G:\Projects\WebcastLIDNUG\Projects\ExternalDB\ExternalDb\ExternalDb\obj\Debug\ExternalDb.dll
+G:\Projects\WebcastLIDNUG\Projects\ExternalDB\ExternalDb\ExternalDb\obj\Debug\ExternalDb.pdb
+G:\Projects\WebcastLIDNUG\Projects\ExternalDB\ExternalDb\ExternalDb\obj\Debug\ExternalDb.Migrations.InitialCreate.resources
+G:\Projects\WebcastLIDNUG\Projects\ExternalDB\ExternalDb\ExternalDb\obj\Debug\ExternalDb.csproj.GenerateResource.Cache

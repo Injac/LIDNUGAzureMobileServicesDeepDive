@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="g:\projects\webcastlidnug\publishingfiles\output\release\clientpocos.dll" HashGuid="f9285e96-7fe3-61c3-fec2-ead577aa9bb7" />
+    <ReferenceAssembly PathName="g:\projects\webcastlidnug\publishingfiles\sampleapp\lidnugdemo\packages\microsoft.aspnet.signalr.client.2.1.1\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\microsoft.aspnet.signalr.client.dll" HashGuid="05dfb2d4-8f68-e5ae-fbe4-ea0a50a57aea" />
+    <ReferenceAssembly PathName="g:\projects\webcastlidnug\publishingfiles\sampleapp\lidnugdemo\packages\windowsazure.mobileservices.1.2.2\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="ff3fa22d-65a3-35df-723f-48c90b64892f" />
+    <ReferenceAssembly PathName="g:\projects\webcastlidnug\publishingfiles\sampleapp\lidnugdemo\packages\windowsazure.mobileservices.1.2.2\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="1e08b957-f46d-d998-e20b-8e02a45690d1" />
+    <ReferenceAssembly PathName="g:\projects\webcastlidnug\publishingfiles\sampleapp\lidnugdemo\packages\newtonsoft.json.6.0.1\lib\netcore45\newtonsoft.json.dll" HashGuid="09c236d1-053d-8905-8ef0-17027540c930" />
+    <ReferenceAssembly PathName="g:\projects\webcastlidnug\publishingfiles\sampleapp\lidnugdemo\packages\microsoft.net.http.2.2.15\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="g:\projects\webcastlidnug\publishingfiles\sampleapp\lidnugdemo\packages\microsoft.net.http.2.2.15\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
