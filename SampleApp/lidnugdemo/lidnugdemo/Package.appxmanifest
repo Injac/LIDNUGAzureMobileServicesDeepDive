@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="exgripLLC.lidnugdemo" Publisher="CN=EE000FF6-DE9D-4CBE-A61A-14DD767DC76A" Version="1.1.0.0" />
+  <Identity Name="exgripLLC.lidnugdemo" Publisher="CN=ExGripLLC" Version="1.1.0.0" />
   <Properties>
     <DisplayName>lidnugdemo</DisplayName>
     <PublisherDisplayName>ExGrip LLC</PublisherDisplayName>
